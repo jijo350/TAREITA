@@ -1,2 +1,1 @@
-Mi primera línea en gitPrimera línea en git
-Primera línea en git
+Mi primera línea en git
